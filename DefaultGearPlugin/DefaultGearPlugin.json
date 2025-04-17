@@ -1,0 +1,12 @@
+{
+  "Author": "ErumaaFF",
+  "Name": "Default Gear Plugin",
+  "Punchline": "Get rid of the esthetically unpleasing gear of others.",
+  "Description": "Change all gear items of your choice in game to the default racial gear. Note that this may also affect NPC's.",
+  "ApplicableVersion": "tbd",
+  "Tags": [
+    "default gear",
+    "plugin",
+    "racial gear"
+  ]
+}
