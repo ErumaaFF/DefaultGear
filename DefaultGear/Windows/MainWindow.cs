@@ -3,10 +3,11 @@ using System.Numerics;
 using Dalamud.Interface.Utility;
 using Dalamud.Interface.Utility.Raii;
 using Dalamud.Interface.Windowing;
+using DefaultGear;
 using ImGuiNET;
 using Lumina.Excel.Sheets;
 
-namespace DefaultGear.Windows;
+namespace SamplePlugin.Windows;
 
 public class MainWindow : Window, IDisposable
 {
