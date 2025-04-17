@@ -2,7 +2,7 @@
 using Dalamud.Plugin;
 using System;
 
-namespace DefaultGearPlugin;
+namespace DefaultGear;
 
 [Serializable]
 public class Configuration : IPluginConfiguration
